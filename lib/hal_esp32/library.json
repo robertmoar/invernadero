@@ -1,0 +1,10 @@
+{
+  "name": "hal_esp32",
+  "version": "1.0.0",
+  "build": {
+    "srcFilter": [
+      "+<gpio_esp32.cpp>"
+      ],
+    "platforms": "platformio/espressif32"
+  }
+}

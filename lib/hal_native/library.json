@@ -1,0 +1,10 @@
+{
+  "name": "hal_native",
+  "version": "1.0.0",
+  "build": {
+    "srcFilter": [
+      "+<gpio_native.cpp>"
+    ],
+    "platforms": "native"
+  }
+}

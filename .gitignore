@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+*.o
+*.a
+*.d
+.DS_STORE
+managed_components/
+.idea/
